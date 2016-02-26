@@ -25,9 +25,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "d0d36cc79854de58e99c4984ef47dab41a4e7df4": {
@@ -81,9 +81,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "565d71def9c15b19f10ec144ff29e82b9e205e31": {
@@ -165,9 +165,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "28a9448f7c815bc154612af16634435b6987b7fc": {
@@ -193,9 +193,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9": {
@@ -221,9 +221,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "e3243caa7ec8682a4010e25a4ae0b2359c2d7866": {
@@ -249,9 +249,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "25ea7bc8b398577cb2916ec833d61c38af812637": {
@@ -277,9 +277,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "065f423b82d69a7c9dbc6384711d2135a3b7e5ec": {
@@ -305,9 +305,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "277d3032f45323050e140f466f639e5606fef53a": {
@@ -333,9 +333,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "d3008e3fe7da4c118c693d2b34a0b329780f8d86": {
@@ -421,9 +421,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ce115dd79b0793718f8e79bb465f244b7cc725b1": {
@@ -449,9 +449,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "bc098355d65bff2203a212f2387be6f79fbb63e8": {
@@ -477,9 +477,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "2e0a09a025bcee8fc97e417b21a51773904a0d2e": {
@@ -505,9 +505,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "e4d20bc0f083c463514e2044ce86679041263075": {
@@ -533,9 +533,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b": {
@@ -561,9 +561,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8": {
@@ -589,9 +589,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a": {
@@ -617,9 +617,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ce17b7bb17435cd925f196e4736114982de4e056": {
@@ -645,9 +645,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "9bda555be3a52c574eccfa66b114883e2f543c70": {
@@ -673,9 +673,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "37c34dfa85386e8d190a5cfd459c3a6885cca838": {
@@ -701,9 +701,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "056b0c86701cfd096c863560836dc129ecefc862": {
@@ -729,9 +729,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "3d766f5b9e2bb9284e717d5a998b1a7c291221fc": {
@@ -757,9 +757,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2": {
@@ -785,9 +785,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "31eea97ab4912ca241557cddbf59929e085ebe80": {
@@ -813,9 +813,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "0f4922e1df8725aad839211dbe0dfc532692f606": {
@@ -841,9 +841,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "d7b3908ae670a7bcc976f2675834316862a25802": {
@@ -869,9 +869,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ef2664b6dd61bd55898971adf7e4a57f92be88cc": {
@@ -897,9 +897,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "7f5f99f0f0befde13272221e376006dffbddb994": {
@@ -925,9 +925,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": {
@@ -953,9 +953,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "3f1843e8a1335617c562084ce69fc82ae7c2c694": {
@@ -981,9 +981,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "3e61149f7b05f74d662d3038233013ffdcbed1a3": {
@@ -1069,9 +1069,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "54bb78b313c4f0c721862910496c5154ed5444ef": {
@@ -1097,9 +1097,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "3714670bd9ded38e54c1f2e3f64658950c6d3f40": {
@@ -1125,9 +1125,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95": {
@@ -1153,9 +1153,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "2668c9aa8c36621eb9797e634354bc7fa285d3b8": {
@@ -1209,9 +1209,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "44f3bb3bec83fd779c83d0326d55c88ead77cfba": {
@@ -1237,9 +1237,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "df54abe3d92ffaff2998e9fb3157b42cf83143c2": {
@@ -1265,9 +1265,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "b081337b68091f95498d23fecbc64701866b2cec": {
@@ -1293,9 +1293,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "14cf6c2005eb756200e7fd065b61e4120d84c02e": {
@@ -1321,9 +1321,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "2290a81a8dbc82b7881d2b6006d70a90578f9a56": {
@@ -1349,9 +1349,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ca609ad6055d8053e43e482ed2e57b3db41c3549": {
@@ -1377,9 +1377,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "66cefb1620ad412d3f4e041561ae1df356fdb1e6": {
@@ -1405,9 +1405,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "2886767875ee6a9882ca050e34787cfa1fb64109": {
@@ -1433,9 +1433,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "e4b793025b00cb3137eddc0e7ec437f03abdf3c4": {
@@ -1461,9 +1461,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "1484f03d1d80b73e3131095e3363b246929a0a35": {
@@ -1489,9 +1489,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "47c387c525a58a88f18e61920736a6e0e7f2098d": {
@@ -1517,9 +1517,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "9abd5f2bd558706c03e2c0da58503ef914d08142": {
@@ -1573,9 +1573,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "81efeb79a70df604ef8c126c0ebd17b4f4711a44": {
@@ -1601,9 +1601,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "ebda397e0970e90e3fcf33218565919bd7e6eb40": {
@@ -1629,9 +1629,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "4af3a1c0d7491552cfa1d22daa6718803e762698": {
@@ -1657,9 +1657,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     },
     "f775047bb73ea56ac124df5e1b0c2baa736c9526": {
@@ -1685,9 +1685,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullServer.4b925b277da29998394af746bdbdd508fda48909.zh-cn.xlf",
+      "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
+      "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
       "ArchiveException": null
     }
   }
