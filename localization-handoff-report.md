@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5f54761febfed7484ec7293317c629feeef73ebc/dsc/Test1/OpenLoc is cool.md) | HandedOffSuccess | [Details](#9e980e1d8866fe70ca66c71ee1c662ed9a45f45254)
+ [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/f6aa7256da2faf70526af642c780cfa84f754d43/dsc/archiveResource.md) | HandedOffSuccess | [Details](#ffe9d4d734e51f68031e6c7df6068d8dd71e61cb5)
 
 ## Item Details
-##### <a name='9e980e1d8866fe70ca66c71ee1c662ed9a45f45254'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5f54761febfed7484ec7293317c629feeef73ebc/dsc/Test1/OpenLoc is cool.md)
+##### <a name='ffe9d4d734e51f68031e6c7df6068d8dd71e61cb5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/f6aa7256da2faf70526af642c780cfa84f754d43/dsc/archiveResource.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4c04551ae481189737c5d4ff68299d2efc1f0dcc/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf)
-* Handoff Datetime: 2016-04-01 01:53:15
+* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c83bef6897fa942890cbf7df4e69828497a2f316/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-cn.xlf)
+* Handoff Datetime: 2016-04-01 08:28:37
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
