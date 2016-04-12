@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8c06757253ac5d54a77bb008b87bd426238fff1a/dsc/overview.md) | OutofSyncHandedBackSuccess | [Details](#ad20e5b0839db5665f7ec07a1dbc46b6f019e9da39)
 
 ## Item Details
-##### <a name='ad20e5b0839db5665f7ec07a1dbc46b6f019e9da39'></a> Source: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8c06757253ac5d54a77bb008b87bd426238fff1a/dsc/overview.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/293ea328e8c483d6c1a09d74eb64ff2bdd51198e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf)
-* Handoff Datetime: 2016-04-12 06:50:20
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/f19b88bb3d730c6be9aac82861e63f88df84ec0c/dsc/overview.md)
-* Current Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/26e52ab64a05f8c7a290abf45c0455f8a35a1405/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-12 06:40:48
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
