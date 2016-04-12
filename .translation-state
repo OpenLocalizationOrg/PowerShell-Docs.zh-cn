@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "686183f346d944c165d54b4eb23188a7f7ee3d5c",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "916fcfba7c3552bac25d9cf58748ba1bbc2e3de4",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
       "FileHash": "c3b8854dbecd4ab03e46c51a23ac00461bdd7014",
@@ -1973,9 +1973,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-04-12T06:01:01.5903193Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name:  overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn is different with handoff file name: overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name:  overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn is different with handoff file name: overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
