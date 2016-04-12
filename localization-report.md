@@ -583,9 +583,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/f19b88bb3d730c6be9aac82861e63f88df84ec0c/dsc/overview.md)
-* Current Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/26e52ab64a05f8c7a290abf45c0455f8a35a1405/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-12 06:40:48
+* Current Target File: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/b7cc81e372e4c749ec33dc1ea46b7d3f1163e2c6/dsc/overview.md)
+* Current Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/21898fb90667413ae6979d23946ab1aea4468913/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf)
+* Current Handback Datetime: 2016-04-12 06:50:41
 * [Back to Top](#report-top)
 
 ##### <a name='9c9f1da0b560c44c9760583c4193bdf4eaee09f740'></a> Source: [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/414637d15df6927f455eee7150f79148ea47c023/dsc/packageResource.md)
