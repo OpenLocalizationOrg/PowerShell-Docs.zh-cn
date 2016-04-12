@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/686183f346d944c165d54b4eb23188a7f7ee3d5c/dsc/overview.md) | HandedOffSuccess | [Details](#61984571d2a49f6a00257895edc327376684596e39)
 
 ## Item Details
+##### <a name='61984571d2a49f6a00257895edc327376684596e39'></a> Source: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/686183f346d944c165d54b4eb23188a7f7ee3d5c/dsc/overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0022ca6d68974f36008b73c2e572771717143524/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf)
+* Handoff Datetime: 2016-04-12 05:41:03
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
