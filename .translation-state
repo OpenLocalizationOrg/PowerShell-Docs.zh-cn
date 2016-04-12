@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "686183f346d944c165d54b4eb23188a7f7ee3d5c",
-  "LastTranslatedCommit": "bf0aea61e6cb25e0d5d36e9c0bf4da1272458774",
+  "LastTranslatedCommit": "f19b88bb3d730c6be9aac82861e63f88df84ec0c",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
       "FileHash": "c3b8854dbecd4ab03e46c51a23ac00461bdd7014",
@@ -1969,22 +1969,14 @@
       "HandoffPriority": "high",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-04-12T06:30:18.1007281Z",
-      "HandbackException": {
-        "internal_error_code": "handback_validate_file_name_invalide",
-        "internal_error_message": "Handback file name:  overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn is different with handoff file name: overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.",
-        "internal_error_retriable": false,
-        "exception_message": "Handback file name:  overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn is different with handoff file name: overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.",
-        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
-        "stack_trace": null,
-        "extended_information": null
-      },
-      "HandbackFailureTimes": 4,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "f19b88bb3d730c6be9aac82861e63f88df84ec0c",
+      "TargetFilePath": "dsc\\overview.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf",
+      "HandbackFileCommit": "26e52ab64a05f8c7a290abf45c0455f8a35a1405",
+      "HandbackDateTime": "2016-04-12T06:40:48.168933Z",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "2016-04-12T06:40:48.168933Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
