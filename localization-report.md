@@ -5,20 +5,17 @@
  -------- | ----- 
  Total Files | 65
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 55
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 8
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/374eb176457433e53e4695ff952ac8f27a4028e1/dsc/authoringResource.md) | HandedOffSuccess | [Details](#9ea62ec24425a14aae82050e6098e5fe9aef05506)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -89,6 +86,9 @@
  [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md) | OutofSyncHandedBackSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a655)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/374eb176457433e53e4695ff952ac8f27a4028e1/dsc/authoringResource.md) | InSyncHandedBackSuccess | [Details](#9ea62ec24425a14aae82050e6098e5fe9aef05506)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -176,15 +176,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9ea62ec24425a14aae82050e6098e5fe9aef05506'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/374eb176457433e53e4695ff952ac8f27a4028e1/dsc/authoringResource.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/ecdcdbd6168b15f170ab2e50ce0de608819a7cbd/dsc/authoringResource.md)
 * Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2c078c0a0a6e8a8e7fd8e70224f67a42f542badd/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
 * Handoff Datetime: 2016-04-12 19:20:28
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/c710565b53416b14d74f4c5887845765c39d14a8/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Handback Datetime: 2016-04-12 22:40:49
 * [Back to Top](#report-top)
 
 ##### <a name='ebda397e0970e90e3fcf33218565919bd7e6eb407'></a> Source: [dsc\authoringResourceClass.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/authoringResourceClass.md)
