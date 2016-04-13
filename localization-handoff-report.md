@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md) | HandedOffSuccess | [Details](#127e4f2cb6925f771c7f8695b47d421a7ddad15640)
 
 ## Item Details
-##### <a name='127e4f2cb6925f771c7f8695b47d421a7ddad15640'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6b2341f6689eed677747dfbb7b0b2e934a248ffe/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
-* Handoff Datetime: 2016-04-13 00:30:55
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
