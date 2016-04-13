@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ebbc43566c9482c88ff23baf52d63aa8aa9fd7a5",
+  "LastProcessedCommit": "1490f9466ddd6543250e20c9ac07fc2bbd7c0ad8",
   "LastTranslatedCommit": "ecdcdbd6168b15f170ab2e50ce0de608819a7cbd",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2087,6 +2087,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
       "HandoffFileCommit": "6b2341f6689eed677747dfbb7b0b2e934a248ffe",
       "HandoffDateTime": "2016-04-13T00:30:55.7338437Z",
+      "HandoffPriority": "high",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "69d23bf4e3d757777db90569dc8de830aeaf15d9": {
+      "FileHash": "69d23bf4e3d757777db90569dc8de830aeaf15d9",
+      "SourceFileCommit": "1490f9466ddd6543250e20c9ac07fc2bbd7c0ad8",
+      "SourceFilePath": "dsc\\Test1\\OpenLoc is cool.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\Test1\\OpenLoc is cool.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf",
+      "HandoffFileCommit": "7f805f4fb7779075a5258a6d58463c5f0a4a1872",
+      "HandoffDateTime": "2016-04-13T00:51:38.2187779Z",
       "HandoffPriority": "high",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1490f9466ddd6543250e20c9ac07fc2bbd7c0ad8/dsc/Test1/OpenLoc is cool.md) | HandedOffSuccess | [Details](#69d23bf4e3d757777db90569dc8de830aeaf15d953)
 
 ## Item Details
+##### <a name='69d23bf4e3d757777db90569dc8de830aeaf15d953'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1490f9466ddd6543250e20c9ac07fc2bbd7c0ad8/dsc/Test1/OpenLoc is cool.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7f805f4fb7779075a5258a6d58463c5f0a4a1872/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/high/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf)
+* Handoff Datetime: 2016-04-13 00:51:38
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
