@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md) | InSyncHandedBackSuccess | [Details](#127e4f2cb6925f771c7f8695b47d421a7ddad15640)
 
 ## Item Details
-##### <a name='127e4f2cb6925f771c7f8695b47d421a7ddad15640'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c/dsc/partialConfigs.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/e9b374c073d3cec357a79519e9e1345f96f54eb0/dsc/partialConfigs.md)
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cd0e6b69a867391e9437d941326d3d3586997727/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
-* Handoff Datetime: 2016-04-13 01:00:26
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/26f482e92c60dc2ce3cccd55477a201e6a2f9185/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
-* Handback Datetime: 2016-04-13 15:57:58
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
