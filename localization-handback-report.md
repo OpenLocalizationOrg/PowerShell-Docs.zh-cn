@@ -1,11 +1,27 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | InSyncHandedBackSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a923)
 
 ## Item Details
+##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a923'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/196629f3d28a454a557d7dd0d213b3c842bd4991/dsc/images/Pull1.png)
+* Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/f7f1101b13faccedb2015519e3af01774a2646fd/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
+* Handoff Datetime: 2016-04-13 18:47:50
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandback/blob/6c2b41c13ebe166e45bf34957e1f7308ad199cf5/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
+* Handback Datetime: 2016-04-13 18:57:42
+* Dependency From: dsc\partialConfigs.md
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

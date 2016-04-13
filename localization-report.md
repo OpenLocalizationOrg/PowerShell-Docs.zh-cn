@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 66
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 51
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 2
-[ In Sync Handback Files ](#insync-handback-success-list)| 2
+[ In Sync Handback Files ](#insync-handback-success-list)| 3
 [ Ignored Files ](#ignored-list)| 8
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -18,7 +18,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | HandedOffSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a923)
  [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b2ec83c567153992fd1ffc30340e1e583fb537a9/dsc/Test1/OpenLoc ROCKS.md) | HandedOffSuccess | [Details](#2b29976a764a8377742da0a7204dff32f89ef99f54)
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md) | HandedOffSuccess | [Details](#a659f12ae049937714da659dd95d40ea9774222c55)
 
@@ -92,6 +91,7 @@
  ----------- | ------ | ------- 
  [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a608f05ae19ec8ef851e49167f78ba43332813e6/dsc/archiveResource.md) | InSyncHandedBackSuccess | [Details](#e04310b8654bab21ba61cb46b1b110b9791b9ffd5)
  [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/374eb176457433e53e4695ff952ac8f27a4028e1/dsc/authoringResource.md) | InSyncHandedBackSuccess | [Details](#9ea62ec24425a14aae82050e6098e5fe9aef05506)
+ [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | InSyncHandedBackSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a923)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -386,15 +386,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a923'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/196629f3d28a454a557d7dd0d213b3c842bd4991/dsc/images/Pull1.png)
 * Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/f7f1101b13faccedb2015519e3af01774a2646fd/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
 * Handoff Datetime: 2016-04-13 18:47:50
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandback/blob/6c2b41c13ebe166e45bf34957e1f7308ad199cf5/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
+* Handback Datetime: 2016-04-13 18:57:42
 * Dependency From: dsc\partialConfigs.md
 * [Back to Top](#report-top)
 
