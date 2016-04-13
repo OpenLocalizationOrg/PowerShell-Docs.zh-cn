@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf",
+  "LastProcessedCommit": "fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c",
   "LastTranslatedCommit": "ecdcdbd6168b15f170ab2e50ce0de608819a7cbd",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -387,7 +387,8 @@
       "SourceFilePath": "dsc\\images\\Pull.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "dsc\\enactingConfigurations.md"
+        "dsc\\enactingConfigurations.md",
+        "dsc\\partialConfigs.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -2057,6 +2058,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.zh-cn.xlf",
       "HandoffFileCommit": "e903886bb454d65c59b21cc6b96fb38da738677e",
       "HandoffDateTime": "2016-04-12T22:31:06.4860686Z",
+      "HandoffPriority": "high",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "127e4f2cb6925f771c7f8695b47d421a7ddad156": {
+      "FileHash": "127e4f2cb6925f771c7f8695b47d421a7ddad156",
+      "SourceFileCommit": "fd7a1a8d7c5765afd8f53c015dd7beedf6a68e9c",
+      "SourceFilePath": "dsc\\partialConfigs.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\partialConfigs.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
+      "HandoffFileCommit": "6b2341f6689eed677747dfbb7b0b2e934a248ffe",
+      "HandoffDateTime": "2016-04-13T00:30:55.7338437Z",
       "HandoffPriority": "high",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
