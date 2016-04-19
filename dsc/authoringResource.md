@@ -1,4 +1,4 @@
-# Build Custom Windows PowerShell Desired State Configuration Resources 研究
+# Build Custom Windows PowerShell Desired State Configuration Resources 抉择2
 
 > Applies To: Windows PowerShell 4.0, Windows PowerShell 5.0
 
