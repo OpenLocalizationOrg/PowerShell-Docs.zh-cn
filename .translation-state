@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "9c419cd8c9dbcc9d4665b549ff78fb6fce507874",
+  "LastProcessedCommit": "5f388d72477a9864b18c30b1a09db315f0423452",
   "LastTranslatedCommit": "cf3e153aee2025eb5d96b366d0b972168e8e1047",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2496,7 +2496,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-25T21:43:37.693819Z",
+      "HandoffDateTime": "2016-04-25T21:53:24.9355934Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -2507,7 +2507,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
         "extended_information": null
       },
-      "HandoffFailureTimes": 7,
+      "HandoffFailureTimes": 8,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -2592,6 +2592,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\Exclude.8062154e3e7f8b504bfcefa7b1ec65857d6c6c72.zh-cn.xlf",
       "HandoffFileCommit": "72717c3a07ff4a0fb5f9a928c948a8613faf6525",
       "HandoffDateTime": "2016-04-25T21:43:37.693819Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "571e8662abd7ee81907d4982e0cac3398a4eda10": {
+      "FileHash": "571e8662abd7ee81907d4982e0cac3398a4eda10",
+      "SourceFileCommit": "5f388d72477a9864b18c30b1a09db315f0423452",
+      "SourceFilePath": "albina1\\Include.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "albina1\\Include.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\Include.d5d7a7cbff1647794600448b37e1772193fdeb6e.zh-cn.xlf",
+      "HandoffFileCommit": "9126cd81f75e4b79de2e680423ca7a735631f8a3",
+      "HandoffDateTime": "2016-04-25T21:53:24.9355934Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
