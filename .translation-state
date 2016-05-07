@@ -2069,9 +2069,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "127e4f2cb6925f771c7f8695b47d421a7ddad156": {
@@ -2156,9 +2156,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "ae2d778f7f78f6a1f201f033147e44cab18bd49e": {
@@ -2214,9 +2214,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "daf17d72ba959743dbd72212e2172f5a60ce5ce5": {
@@ -2479,9 +2479,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "e60976865fe9b1b0115509c66b9973dea16992ec": {
@@ -2574,9 +2574,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "75df3e5c84331cf063ec7255d0a91cc731109b05": {
@@ -2632,9 +2632,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\Include.d5d7a7cbff1647794600448b37e1772193fdeb6e.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     },
     "f08cf5cf212cff8aa1937f98eb76ef69b8cd3b50": {
@@ -2690,9 +2690,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.zh-cn.xlf",
+      "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
+      "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
       "ArchiveException": null
     }
   }
