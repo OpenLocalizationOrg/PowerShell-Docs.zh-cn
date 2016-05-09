@@ -6,20 +6,23 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Sonja_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/4d7c513d661eecaff9ae3435358d6fc66dc420ce/dsc/Sonja_in_dsc_folder.md) | HandedOffSuccess | [Details](#b94ed3942916030f8c3115c0f7c5baf217dbae4c57)
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#2e3051f3538f2643b5714e7c2eea04d219e19fc48)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
 
 ## Item Details
-##### <a name='b94ed3942916030f8c3115c0f7c5baf217dbae4c57'></a> Source: [dsc\Sonja_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/4d7c513d661eecaff9ae3435358d6fc66dc420ce/dsc/Sonja_in_dsc_folder.md)
-* Status: HandedOffSuccess
+##### <a name='2e3051f3538f2643b5714e7c2eea04d219e19fc48'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/49fcf5a8e54743097e4e206e925c57bf78105109/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.zh-cn.xlf)
-* Handoff Datetime: 2016-04-27 23:53:48
+* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/088389cca6b84643c8f85895d719eeb1da07245b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Handoff Datetime: 2016-05-09 21:32:29
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/cf3e153aee2025eb5d96b366d0b972168e8e1047/dsc/authoringResource.md)
+* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/54728f0573722b1f6f58fb10918667fa40c23aa9/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Current Handback Datetime: 2016-04-19 05:41:16
 * [Back to Top](#report-top)
 
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec59'></a> Source: [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md)
