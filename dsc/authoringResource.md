@@ -1,4 +1,4 @@
-# Build Custom Windows PowerShell Desired State Configuration Resources 抉择2
+# Build Custom Windows PowerShell Desired State Configuration Resources 测试5
 
 > Applies To: Windows PowerShell 4.0, Windows PowerShell 5.0
 
@@ -15,6 +15,6 @@ A DSC resource is a Windows PowerShell module. The module contains both the sche
 * [Using the Resource Designer tool](authoringResourceMofDesigner.md) 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=May16_HO2-->
 
 
