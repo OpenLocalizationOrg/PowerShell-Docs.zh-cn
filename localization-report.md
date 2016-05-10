@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 55
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 2
-[ In Sync Handback Files ](#insync-handback-success-list)| 3
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 4
 [ Ignored Files ](#ignored-list)| 11
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -89,12 +89,12 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#2e3051f3538f2643b5714e7c2eea04d219e19fc48)
  [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md) | OutofSyncHandedBackSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a662)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md) | InSyncHandedBackSuccess | [Details](#2e3051f3538f2643b5714e7c2eea04d219e19fc48)
  [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | InSyncHandedBackSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a925)
  [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/partialConfigs.md) | InSyncHandedBackSuccess | [Details](#da410bf1b10ae360fda5734aecb19f33331aea4744)
  [dsc\test1\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/326b2c80ae714f96ea7bdec987d4e468ca263440/dsc/test1/archiveResource.md) | InSyncHandedBackSuccess | [Details](#e04310b8654bab21ba61cb46b1b110b9791b9ffd58)
@@ -212,18 +212,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2e3051f3538f2643b5714e7c2eea04d219e19fc48'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/00aa91a7c3ab2f4a823b6ea8bffcc10772a7c2ca/dsc/authoringResource.md)
 * Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/088389cca6b84643c8f85895d719eeb1da07245b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
 * Handoff Datetime: 2016-05-09 21:32:29
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/cf3e153aee2025eb5d96b366d0b972168e8e1047/dsc/authoringResource.md)
-* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/54728f0573722b1f6f58fb10918667fa40c23aa9/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-19 05:41:16
+* Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/07b6f9cc7b30b688356beec6cd21b578b4fd1b38/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Handback Datetime: 2016-05-10 19:02:39
 * [Back to Top](#report-top)
 
 ##### <a name='ebda397e0970e90e3fcf33218565919bd7e6eb409'></a> Source: [dsc\authoringResourceClass.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/309b70801bfa4d6372c1d8ccb2337e3f5f42100a/dsc/authoringResourceClass.md)

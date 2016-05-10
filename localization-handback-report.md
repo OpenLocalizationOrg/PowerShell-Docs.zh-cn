@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md) | InSyncHandedBackSuccess | [Details](#2e3051f3538f2643b5714e7c2eea04d219e19fc48)
 
 ## Item Details
+##### <a name='2e3051f3538f2643b5714e7c2eea04d219e19fc48'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/00aa91a7c3ab2f4a823b6ea8bffcc10772a7c2ca/dsc/authoringResource.md)
+* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/088389cca6b84643c8f85895d719eeb1da07245b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Handoff Datetime: 2016-05-09 21:32:29
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/07b6f9cc7b30b688356beec6cd21b578b4fd1b38/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Handback Datetime: 2016-05-10 19:02:39
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
