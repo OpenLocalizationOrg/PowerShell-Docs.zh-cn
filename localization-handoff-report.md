@@ -6,25 +6,10 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md) | OutofSyncHandedBackSuccess | [Details](#17c9149903fd6a7ce6904b03a76619795944554e44)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
+ [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc ROCKS.md) | HandedOffFailed | [Details](#1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460)
 
 ## Item Details
-##### <a name='17c9149903fd6a7ce6904b03a76619795944554e44'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/47a28fe5e8d830d00c98e6bfe52454b64055707e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
-* Handoff Datetime: 2016-05-12 05:58:31
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/21812df27ce5944f5ba840e5272c46fc7c9d34bf/dsc/partialConfigs.md)
-* Current Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/cf5d49b00d261d925c5cc5911830a813da43cb0a/ol-handback/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-13 21:37:43
-* [Back to Top](#report-top)
-
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec59'></a> Source: [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md)
 * Status: HandedOffFailed
 * Target File: 
@@ -38,6 +23,19 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
+##### <a name='1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc ROCKS.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handoff Error: [handoff_transform_failed](#1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec59handoff_transform_failed'></a> Source: [dsc\Test1\MoraviaDemo.md](#e60976865fe9b1b0115509c66b9973dea16992ec59)
@@ -45,6 +43,12 @@
 * Error Message: Handoff source file: dsc\Test1\MoraviaDemo.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\Test1\\MoraviaDemo.md transformed failed.","internal_error_retriable":false,"exception_message":"dsc\\Test1\\MoraviaDemo.md file with commit id b55a68d179ab003b414a0ab6459fdd2923ab108c can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389","extended_information":null}
+
+##### <a name='1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460handoff_transform_failed'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](#1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460)
+* Error Code: handoff_transform_failed
+* Error Message: Handoff source file: dsc\Test1\OpenLoc ROCKS.md transformed failed.
+* Retriable: False
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\Test1\\OpenLoc ROCKS.md transformed failed.","internal_error_retriable":false,"exception_message":"dsc\\Test1\\OpenLoc ROCKS.md file with commit id 5d40229cc5014c159352170071b347a333a90fa5 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389","extended_information":null}
 
 
 Generated by OpenLocalization.
