@@ -217,8 +217,8 @@
 * Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b913c7c00b633032af97532d16a1b066907cff60/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
 * Handoff Datetime: 2016-05-11 21:08:19
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/63fa7a915aa06463259d03191adbacffbc24e6ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/archive/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf)
+* Archive Datetime: 2016-05-13 01:53:10
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/00aa91a7c3ab2f4a823b6ea8bffcc10772a7c2ca/dsc/authoringResource.md)
@@ -657,8 +657,8 @@
 * Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/47a28fe5e8d830d00c98e6bfe52454b64055707e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
 * Handoff Datetime: 2016-05-12 05:58:31
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/63fa7a915aa06463259d03191adbacffbc24e6ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-cn/master/archive/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf)
+* Archive Datetime: 2016-05-13 01:53:10
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.zh-cn/blob/21812df27ce5944f5ba840e5272c46fc7c9d34bf/dsc/partialConfigs.md)

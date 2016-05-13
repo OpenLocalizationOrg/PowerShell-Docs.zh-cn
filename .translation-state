@@ -2842,9 +2842,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
+      "ArchiveFileCommit": "63fa7a915aa06463259d03191adbacffbc24e6ca",
+      "ArchiveFileDateTime": "2016-05-13T01:53:10.527743Z",
       "ArchiveException": null
     },
     "17c9149903fd6a7ce6904b03a76619795944554e": {
@@ -2872,9 +2872,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
+      "ArchiveFileCommit": "63fa7a915aa06463259d03191adbacffbc24e6ca",
+      "ArchiveFileDateTime": "2016-05-13T01:53:10.527743Z",
       "ArchiveException": null
     },
     "1e97e7496cbb66ff8b8a10b1412383cf9f3f4c34": {
