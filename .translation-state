@@ -30,7 +30,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "d0d36cc79854de58e99c4984ef47dab41a4e7df4": {
       "FileHash": "d0d36cc79854de58e99c4984ef47dab41a4e7df4",
@@ -60,7 +64,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9": {
       "FileHash": "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9",
@@ -90,7 +98,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "565d71def9c15b19f10ec144ff29e82b9e205e31": {
       "FileHash": "565d71def9c15b19f10ec144ff29e82b9e205e31",
@@ -120,7 +132,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d": {
       "FileHash": "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d",
@@ -150,7 +166,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "f64cbea29a1e9998b8ade46d69c1ef1c584bd633": {
       "FileHash": "f64cbea29a1e9998b8ade46d69c1ef1c584bd633",
@@ -180,7 +200,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "28a9448f7c815bc154612af16634435b6987b7fc": {
       "FileHash": "28a9448f7c815bc154612af16634435b6987b7fc",
@@ -210,7 +234,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9": {
       "FileHash": "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9",
@@ -240,7 +268,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "e3243caa7ec8682a4010e25a4ae0b2359c2d7866": {
       "FileHash": "e3243caa7ec8682a4010e25a4ae0b2359c2d7866",
@@ -270,7 +302,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "25ea7bc8b398577cb2916ec833d61c38af812637": {
       "FileHash": "25ea7bc8b398577cb2916ec833d61c38af812637",
@@ -300,7 +336,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "065f423b82d69a7c9dbc6384711d2135a3b7e5ec": {
       "FileHash": "065f423b82d69a7c9dbc6384711d2135a3b7e5ec",
@@ -330,7 +370,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "277d3032f45323050e140f466f639e5606fef53a": {
       "FileHash": "277d3032f45323050e140f466f639e5606fef53a",
@@ -360,7 +404,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "d3008e3fe7da4c118c693d2b34a0b329780f8d86": {
       "FileHash": "d3008e3fe7da4c118c693d2b34a0b329780f8d86",
@@ -392,7 +440,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\d3008e3fe7da4c118c693d2b34a0b329780f8d86.png",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "86d829b1fcdd41e648ed0594eaf337b3726c143c": {
       "FileHash": "86d829b1fcdd41e648ed0594eaf337b3726c143c",
@@ -425,7 +477,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\86d829b1fcdd41e648ed0594eaf337b3726c143c.png",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c": {
       "FileHash": "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c",
@@ -455,7 +511,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ce115dd79b0793718f8e79bb465f244b7cc725b1": {
       "FileHash": "ce115dd79b0793718f8e79bb465f244b7cc725b1",
@@ -485,7 +545,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "bc098355d65bff2203a212f2387be6f79fbb63e8": {
       "FileHash": "bc098355d65bff2203a212f2387be6f79fbb63e8",
@@ -515,7 +579,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2e0a09a025bcee8fc97e417b21a51773904a0d2e": {
       "FileHash": "2e0a09a025bcee8fc97e417b21a51773904a0d2e",
@@ -545,7 +613,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "e4d20bc0f083c463514e2044ce86679041263075": {
       "FileHash": "e4d20bc0f083c463514e2044ce86679041263075",
@@ -575,7 +647,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b": {
       "FileHash": "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b",
@@ -605,7 +681,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8": {
       "FileHash": "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8",
@@ -635,7 +715,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a": {
       "FileHash": "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a",
@@ -665,7 +749,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ce17b7bb17435cd925f196e4736114982de4e056": {
       "FileHash": "ce17b7bb17435cd925f196e4736114982de4e056",
@@ -695,7 +783,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "9bda555be3a52c574eccfa66b114883e2f543c70": {
       "FileHash": "9bda555be3a52c574eccfa66b114883e2f543c70",
@@ -725,7 +817,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "37c34dfa85386e8d190a5cfd459c3a6885cca838": {
       "FileHash": "37c34dfa85386e8d190a5cfd459c3a6885cca838",
@@ -755,7 +851,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "056b0c86701cfd096c863560836dc129ecefc862": {
       "FileHash": "056b0c86701cfd096c863560836dc129ecefc862",
@@ -785,7 +885,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3d766f5b9e2bb9284e717d5a998b1a7c291221fc": {
       "FileHash": "3d766f5b9e2bb9284e717d5a998b1a7c291221fc",
@@ -815,7 +919,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2": {
       "FileHash": "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2",
@@ -845,7 +953,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "31eea97ab4912ca241557cddbf59929e085ebe80": {
       "FileHash": "31eea97ab4912ca241557cddbf59929e085ebe80",
@@ -875,7 +987,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0f4922e1df8725aad839211dbe0dfc532692f606": {
       "FileHash": "0f4922e1df8725aad839211dbe0dfc532692f606",
@@ -905,7 +1021,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "d7b3908ae670a7bcc976f2675834316862a25802": {
       "FileHash": "d7b3908ae670a7bcc976f2675834316862a25802",
@@ -935,7 +1055,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ef2664b6dd61bd55898971adf7e4a57f92be88cc": {
       "FileHash": "ef2664b6dd61bd55898971adf7e4a57f92be88cc",
@@ -965,7 +1089,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "7f5f99f0f0befde13272221e376006dffbddb994": {
       "FileHash": "7f5f99f0f0befde13272221e376006dffbddb994",
@@ -995,7 +1123,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": {
       "FileHash": "9c9f1da0b560c44c9760583c4193bdf4eaee09f7",
@@ -1025,7 +1157,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3f1843e8a1335617c562084ce69fc82ae7c2c694": {
       "FileHash": "3f1843e8a1335617c562084ce69fc82ae7c2c694",
@@ -1055,7 +1191,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3e61149f7b05f74d662d3038233013ffdcbed1a3": {
       "FileHash": "3e61149f7b05f74d662d3038233013ffdcbed1a3",
@@ -1087,7 +1227,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\3e61149f7b05f74d662d3038233013ffdcbed1a3.jpg",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "1ba842005c2b1ce80a3670429b3e010c7b1c1f59": {
       "FileHash": "1ba842005c2b1ce80a3670429b3e010c7b1c1f59",
@@ -1119,7 +1263,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "4cb0a0836e56ca31f9e101be81e1427493cbbcd5": {
       "FileHash": "4cb0a0836e56ca31f9e101be81e1427493cbbcd5",
@@ -1149,7 +1297,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "54bb78b313c4f0c721862910496c5154ed5444ef": {
       "FileHash": "54bb78b313c4f0c721862910496c5154ed5444ef",
@@ -1179,7 +1331,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3714670bd9ded38e54c1f2e3f64658950c6d3f40": {
       "FileHash": "3714670bd9ded38e54c1f2e3f64658950c6d3f40",
@@ -1209,7 +1365,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95": {
       "FileHash": "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95",
@@ -1239,7 +1399,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2668c9aa8c36621eb9797e634354bc7fa285d3b8": {
       "FileHash": "2668c9aa8c36621eb9797e634354bc7fa285d3b8",
@@ -1269,7 +1433,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "fc1456c57ade6862957e54ee53f18f189785848a": {
       "FileHash": "fc1456c57ade6862957e54ee53f18f189785848a",
@@ -1299,7 +1467,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "44f3bb3bec83fd779c83d0326d55c88ead77cfba": {
       "FileHash": "44f3bb3bec83fd779c83d0326d55c88ead77cfba",
@@ -1329,7 +1501,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "df54abe3d92ffaff2998e9fb3157b42cf83143c2": {
       "FileHash": "df54abe3d92ffaff2998e9fb3157b42cf83143c2",
@@ -1359,7 +1535,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b081337b68091f95498d23fecbc64701866b2cec": {
       "FileHash": "b081337b68091f95498d23fecbc64701866b2cec",
@@ -1389,7 +1569,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "14cf6c2005eb756200e7fd065b61e4120d84c02e": {
       "FileHash": "14cf6c2005eb756200e7fd065b61e4120d84c02e",
@@ -1419,7 +1603,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2290a81a8dbc82b7881d2b6006d70a90578f9a56": {
       "FileHash": "2290a81a8dbc82b7881d2b6006d70a90578f9a56",
@@ -1449,7 +1637,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ca609ad6055d8053e43e482ed2e57b3db41c3549": {
       "FileHash": "ca609ad6055d8053e43e482ed2e57b3db41c3549",
@@ -1479,7 +1671,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "66cefb1620ad412d3f4e041561ae1df356fdb1e6": {
       "FileHash": "66cefb1620ad412d3f4e041561ae1df356fdb1e6",
@@ -1509,7 +1705,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2886767875ee6a9882ca050e34787cfa1fb64109": {
       "FileHash": "2886767875ee6a9882ca050e34787cfa1fb64109",
@@ -1539,7 +1739,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "e4b793025b00cb3137eddc0e7ec437f03abdf3c4": {
       "FileHash": "e4b793025b00cb3137eddc0e7ec437f03abdf3c4",
@@ -1569,7 +1773,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "1484f03d1d80b73e3131095e3363b246929a0a35": {
       "FileHash": "1484f03d1d80b73e3131095e3363b246929a0a35",
@@ -1599,7 +1807,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "47c387c525a58a88f18e61920736a6e0e7f2098d": {
       "FileHash": "47c387c525a58a88f18e61920736a6e0e7f2098d",
@@ -1629,7 +1841,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "9abd5f2bd558706c03e2c0da58503ef914d08142": {
       "FileHash": "9abd5f2bd558706c03e2c0da58503ef914d08142",
@@ -1659,7 +1875,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "8c1262cca40e2a1f72254cf349d163ee2a4bcebe": {
       "FileHash": "8c1262cca40e2a1f72254cf349d163ee2a4bcebe",
@@ -1689,7 +1909,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "81efeb79a70df604ef8c126c0ebd17b4f4711a44": {
       "FileHash": "81efeb79a70df604ef8c126c0ebd17b4f4711a44",
@@ -1719,7 +1943,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ebda397e0970e90e3fcf33218565919bd7e6eb40": {
       "FileHash": "ebda397e0970e90e3fcf33218565919bd7e6eb40",
@@ -1749,7 +1977,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "4af3a1c0d7491552cfa1d22daa6718803e762698": {
       "FileHash": "4af3a1c0d7491552cfa1d22daa6718803e762698",
@@ -1779,7 +2011,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "f775047bb73ea56ac124df5e1b0c2baa736c9526": {
       "FileHash": "f775047bb73ea56ac124df5e1b0c2baa736c9526",
@@ -1809,7 +2045,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\pullServer.4b925b277da29998394af746bdbdd508fda48909.zh-cn.xlf",
       "ArchiveFileCommit": "1025b67d6eb677fb0a5219fd35416a026b1e7f4e",
       "ArchiveFileDateTime": "2016-02-26T16:53:05.9897814Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "27daeca973361d35caa48d668078a0ef7f643536": {
       "FileHash": "27daeca973361d35caa48d668078a0ef7f643536",
@@ -1839,7 +2079,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "c4a946b282c0ccb777becad09f30c4be2b9b1aab": {
       "FileHash": "c4a946b282c0ccb777becad09f30c4be2b9b1aab",
@@ -1869,7 +2113,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0e5e26f8c14790ce9de7c2c788c80a895dddb47d": {
       "FileHash": "0e5e26f8c14790ce9de7c2c788c80a895dddb47d",
@@ -1899,7 +2147,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "91b5eedfa30db98ae6b92251819037478fcc297d": {
       "FileHash": "91b5eedfa30db98ae6b92251819037478fcc297d",
@@ -1929,7 +2181,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.zh-cn.xlf",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "6c6311c3d6bdafefa766356266b6aa934c84f4c9": {
       "FileHash": "6c6311c3d6bdafefa766356266b6aa934c84f4c9",
@@ -1959,7 +2215,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.zh-cn.xlf",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "9e980e1d8866fe70ca66c71ee1c662ed9a45f452": {
       "FileHash": "9e980e1d8866fe70ca66c71ee1c662ed9a45f452",
@@ -1989,7 +2249,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-cn.xlf",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ffe9d4d734e51f68031e6c7df6068d8dd71e61cb": {
       "FileHash": "ffe9d4d734e51f68031e6c7df6068d8dd71e61cb",
@@ -2019,7 +2283,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\high\\archive\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-cn.xlf",
       "ArchiveFileCommit": "362914a68c28c7c089dfaa8cdc6126ba9abb775e",
       "ArchiveFileDateTime": "2016-04-01T08:47:04.9029062Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "61984571d2a49f6a00257895edc327376684596e": {
       "FileHash": "61984571d2a49f6a00257895edc327376684596e",
@@ -2049,7 +2317,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ad20e5b0839db5665f7ec07a1dbc46b6f019e9da": {
       "FileHash": "ad20e5b0839db5665f7ec07a1dbc46b6f019e9da",
@@ -2083,7 +2355,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "9ea62ec24425a14aae82050e6098e5fe9aef0550": {
       "FileHash": "9ea62ec24425a14aae82050e6098e5fe9aef0550",
@@ -2113,7 +2389,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "d4e485c4e2461db1b7cca67d12d1a7dd331996a6": {
       "FileHash": "d4e485c4e2461db1b7cca67d12d1a7dd331996a6",
@@ -2143,7 +2423,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "127e4f2cb6925f771c7f8695b47d421a7ddad156": {
       "FileHash": "127e4f2cb6925f771c7f8695b47d421a7ddad156",
@@ -2173,7 +2457,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "69d23bf4e3d757777db90569dc8de830aeaf15d9": {
       "FileHash": "69d23bf4e3d757777db90569dc8de830aeaf15d9",
@@ -2203,7 +2491,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2b29976a764a8377742da0a7204dff32f89ef99f": {
       "FileHash": "2b29976a764a8377742da0a7204dff32f89ef99f",
@@ -2233,7 +2525,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ae2d778f7f78f6a1f201f033147e44cab18bd49e": {
       "FileHash": "ae2d778f7f78f6a1f201f033147e44cab18bd49e",
@@ -2263,7 +2559,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a659f12ae049937714da659dd95d40ea9774222c": {
       "FileHash": "a659f12ae049937714da659dd95d40ea9774222c",
@@ -2293,7 +2593,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "daf17d72ba959743dbd72212e2172f5a60ce5ce5": {
       "FileHash": "daf17d72ba959743dbd72212e2172f5a60ce5ce5",
@@ -2323,7 +2627,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "39649aca9e61d188fb9ad855e4d1b8b63ee6491f": {
       "FileHash": "39649aca9e61d188fb9ad855e4d1b8b63ee6491f",
@@ -2353,7 +2661,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "ab3dcf116b796f6c2b6f87b99c0fb644fff8cdbe": {
       "FileHash": "ab3dcf116b796f6c2b6f87b99c0fb644fff8cdbe",
@@ -2383,7 +2695,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "e04310b8654bab21ba61cb46b1b110b9791b9ffd": {
       "FileHash": "e04310b8654bab21ba61cb46b1b110b9791b9ffd",
@@ -2414,7 +2730,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b8": {
       "FileHash": "4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b8",
@@ -2444,7 +2764,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a20dd5927999cbb3c1125bd4ff8944954abc84a9": {
       "FileHash": "a20dd5927999cbb3c1125bd4ff8944954abc84a9",
@@ -2476,7 +2800,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "da410bf1b10ae360fda5734aecb19f33331aea47": {
       "FileHash": "da410bf1b10ae360fda5734aecb19f33331aea47",
@@ -2506,7 +2834,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "cc492892c7576b015d9853eb28e0d6d2abc282aa": {
       "FileHash": "cc492892c7576b015d9853eb28e0d6d2abc282aa",
@@ -2536,7 +2868,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "5ccc3e7d7e0616822fead2254b5393cba0688039": {
       "FileHash": "5ccc3e7d7e0616822fead2254b5393cba0688039",
@@ -2567,7 +2903,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "e60976865fe9b1b0115509c66b9973dea16992ec": {
       "FileHash": "e60976865fe9b1b0115509c66b9973dea16992ec",
@@ -2605,7 +2945,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "5303ee623330b90ab43c160835ee8b8310a1e4ef": {
       "FileHash": "5303ee623330b90ab43c160835ee8b8310a1e4ef",
@@ -2635,7 +2979,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "74269f85cf83aab7301e3e2638b3f58ff383aa38": {
       "FileHash": "74269f85cf83aab7301e3e2638b3f58ff383aa38",
@@ -2665,7 +3013,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "75df3e5c84331cf063ec7255d0a91cc731109b05": {
       "FileHash": "75df3e5c84331cf063ec7255d0a91cc731109b05",
@@ -2695,7 +3047,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "571e8662abd7ee81907d4982e0cac3398a4eda10": {
       "FileHash": "571e8662abd7ee81907d4982e0cac3398a4eda10",
@@ -2725,7 +3081,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\Include.d5d7a7cbff1647794600448b37e1772193fdeb6e.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "f08cf5cf212cff8aa1937f98eb76ef69b8cd3b50": {
       "FileHash": "f08cf5cf212cff8aa1937f98eb76ef69b8cd3b50",
@@ -2755,7 +3115,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b94ed3942916030f8c3115c0f7c5baf217dbae4c": {
       "FileHash": "b94ed3942916030f8c3115c0f7c5baf217dbae4c",
@@ -2785,7 +3149,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.zh-cn.xlf",
       "ArchiveFileCommit": "580288effa4f3afb2ad45b75dae52b38ef8bd49a",
       "ArchiveFileDateTime": "2016-05-07T00:43:39.5598673Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "2e3051f3538f2643b5714e7c2eea04d219e19fc4": {
       "FileHash": "2e3051f3538f2643b5714e7c2eea04d219e19fc4",
@@ -2815,7 +3183,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "abd70c1285a5f33e209692e746b7971926f54a58": {
       "FileHash": "abd70c1285a5f33e209692e746b7971926f54a58",
@@ -2845,7 +3217,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.zh-cn.xlf",
       "ArchiveFileCommit": "63fa7a915aa06463259d03191adbacffbc24e6ca",
       "ArchiveFileDateTime": "2016-05-13T01:53:10.527743Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "17c9149903fd6a7ce6904b03a76619795944554e": {
       "FileHash": "17c9149903fd6a7ce6904b03a76619795944554e",
@@ -2875,7 +3251,11 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.zh-cn\\master\\archive\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.zh-cn.xlf",
       "ArchiveFileCommit": "63fa7a915aa06463259d03191adbacffbc24e6ca",
       "ArchiveFileDateTime": "2016-05-13T01:53:10.527743Z",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "1e97e7496cbb66ff8b8a10b1412383cf9f3f4c34": {
       "FileHash": "1e97e7496cbb66ff8b8a10b1412383cf9f3f4c34",
@@ -2913,7 +3293,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "63376403c162a0337b08552002ecaebacae1bf55": {
       "FileHash": "63376403c162a0337b08552002ecaebacae1bf55",
@@ -2943,7 +3327,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     }
   }
 }
